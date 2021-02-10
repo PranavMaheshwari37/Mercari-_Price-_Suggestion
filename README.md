@@ -14,7 +14,7 @@ But if solved rightly, it can eliminate human interference in giving price sugge
 
 ## Data set 
 
-I've taken dataset from kaggle ().In The data set there are seven features which are described below.
+I've taken dataset from kaggle (https://www.kaggle.com/c/mercari-price-suggestion-challenge/data).In The data set there are seven features which are described below.
 
 1.) Name: The name of the product that is being listed by the seller.
 
