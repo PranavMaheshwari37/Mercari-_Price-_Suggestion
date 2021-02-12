@@ -34,4 +34,4 @@ I've taken dataset from kaggle (https://www.kaggle.com/c/mercari-price-suggestio
 
 Root Mean Square Logarithmic Error(RMSLE).
 
-RMSLE is the best metric for a regression task. For a product, it is okay to predict a higher price value and but it is not worthy to predict a lower price value for the same. RMSLE will increase if we under predict and it will decrease if we over predict. Go through the documentation below to get a better understanding.
+RMSLE is the best metric for a regression task. For a product, it is okay to predict a higher price value and but it is not worthy to predict a lower price value for the same. RMSLE will increase if we under predict and it will decrease if we over predict.
